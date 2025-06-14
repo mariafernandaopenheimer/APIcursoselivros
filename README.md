@@ -8,7 +8,7 @@ Os dados são armazenados **em memória**, dispensando banco de dados — perfei
 # 🌼 Repositório Oficial
 
 🔗 **GitHub:** [https://github.com/mariafernandaopenheimer
--Garro/API.git](https://github.com/mariafernandaopenheimer
+/API.git](https://github.com/mariafernandaopenheimer
 /API.git)
 
 ---
