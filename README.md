@@ -1,6 +1,6 @@
 # 🌸 API - Livros e Cursos 🌸
 
-API RESTful desenvolvida em **ASP.NET Core** para gerenciar um pequeno acervo de **livros** e **cursos** .  
+API RESTful desenvolvida em **ASP.NET Core** Trabalho de PW Maria Fernanda e Nathali 3 DS API- **livros** e **cursos** .  
 Os dados são armazenados **em memória**, dispensando banco de dados — perfeito para estudos, testes e prototipagem rápida. 🌷
 
 ---
