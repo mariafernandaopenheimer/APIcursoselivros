@@ -1,11 +1,11 @@
-# 📚🌸 API - Livros e Cursos 🌸📚
+# 🌸 API - Livros e Cursos 🌸
 
-API RESTful desenvolvida em **ASP.NET Core** para gerenciar um pequeno acervo de **livros** e **cursos** 📖✨.  
+API RESTful desenvolvida em **ASP.NET Core** para gerenciar um pequeno acervo de **livros** e **cursos** .  
 Os dados são armazenados **em memória**, dispensando banco de dados — perfeito para estudos, testes e prototipagem rápida. 🌷
 
 ---
 
-## 🌼 Repositório Oficial
+# 🌼 Repositório Oficial
 
 🔗 **GitHub:** [https://github.com/mariafernandaopenheimer
 -Garro/API.git](https://github.com/mariafernandaopenheimer
@@ -13,7 +13,7 @@ Os dados são armazenados **em memória**, dispensando banco de dados — perfei
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 - [✔️ .NET 6 ou superior](https://dotnet.microsoft.com/)
 - ASP.NET Core Web API 💻
@@ -29,7 +29,7 @@ Os dados são armazenados **em memória**, dispensando banco de dados — perfei
 
 ---
 
-## ✨ Como Executar Localmente
+##  Como Executar Localmente
 
 ### ✅ Requisitos
 
@@ -40,9 +40,9 @@ Os dados são armazenados **em memória**, dispensando banco de dados — perfei
 
 ### 🌸 Passo a Passo
 
-1️⃣ **Clone este repositório fofo:**  
+1️⃣ **Clone este repositório :**  
 ```bash
-git clone https://github.com/ValerioJunior-Garro/API.git
+git clone https://github.com/mariafernandaopenheimer/APIcursoselivros.git
 cd API
 
 dotnet run
